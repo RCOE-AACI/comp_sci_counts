@@ -1,0 +1,95 @@
+﻿"year","StateCourse","CourseContentAreaSubcategory","Gender","Total","Asian, Not Hispanic","Black or African American, Not Hispanic","Filipino","Hispanic","Missing","Two or More Races, Not Hispanic","White, Not Hispanic","American Indian or Alaska Native, Not Hispanic","Native Hawaiian or Pacific Islander, Not Hispanic","Not Reported","Disability","SED","EL"
+"2018","2471-AP  Computer science AB","","F",37,6,1,1,20,2,1,6,,,,0,23,1
+"2018","2471-AP  Computer science AB","","M",104,13,7,1,48,1,2,32,,,,4,59,3
+"2018","7260-Introduction to Game Design","","F",34,7,3,1,6,,5,12,,,,5,12,0
+"2018","7260-Introduction to Game Design","","M",334,21,14,22,118,,17,142,,,,45,117,2
+"2018","7261-Intermediate Game Art and Production","","F",2,,2,,,,,,,,,0,0,0
+"2018","7261-Intermediate Game Art and Production","","M",76,4,,4,36,2,4,26,,,,11,32,8
+"2018","7262-Advanced Game Art and Production","","M",15,,,2,6,,,7,,,,2,3,0
+"2018","8100-Introduction to Information and Communication Technologies","","F",542,14,10,4,418,,9,84,3,,,22,420,51
+"2018","8100-Introduction to Information and Communication Technologies","","M",1303,32,20,12,925,4,10,295,4,1,,156,911,144
+"2018","8110-Introduction to Information Support Services","","F",40,,8,,28,,1,3,,,,4,35,2
+"2018","8110-Introduction to Information Support Services","","M",84,2,11,2,47,1,3,18,,,,16,71,4
+"2018","8111-Intermediate Information Support Services (Concentrator)","","F",94,,5,1,67,,,19,1,1,,16,70,10
+"2018","8111-Intermediate Information Support Services (Concentrator)","","M",227,7,24,6,148,,5,36,,1,,47,175,26
+"2018","8112-Advanced Information Support Services (Capstone)","","F",29,,3,,23,,,2,,1,,3,26,2
+"2018","8112-Advanced Information Support Services (Capstone)","","M",109,2,3,3,92,,1,6,2,,,8,85,3
+"2018","8120-Introduction to Networking","","F",10,1,1,,7,,,1,,,,0,6,1
+"2018","8120-Introduction to Networking","","M",60,,3,,50,1,,6,,,,8,52,11
+"2018","8121-Intermediate Networking (Concentrator)","","F",35,1,,1,23,2,2,6,,,,4,16,4
+"2018","8121-Intermediate Networking (Concentrator)","","M",100,10,5,2,42,2,5,33,,1,,19,60,6
+"2018","8122-Advanced Networking (Capstone)","","F",6,,,,2,,,4,,,,0,2,0
+"2018","8122-Advanced Networking (Capstone)","","M",15,,,,9,,,6,,,,0,8,0
+"2018","8130-Introduction to Systems Programming","","F",129,8,11,2,72,,8,28,,,,7,90,10
+"2018","8130-Introduction to Systems Programming","","M",543,17,32,23,303,3,24,139,1,1,,56,329,49
+"2018","8131-Intermediate Systems Programming (Concentrator)","","F",226,39,20,12,124,3,3,21,1,3,,9,144,2
+"2018","8131-Intermediate Systems Programming (Concentrator)","","M",547,89,41,24,268,2,21,100,1,1,,24,330,10
+"2018","8132-Advanced Systems Programming (Capstone)","","F",63,17,2,1,26,,2,15,,,,0,35,3
+"2018","8132-Advanced Systems Programming (Capstone)","","M",221,43,7,12,99,,2,56,2,,,3,115,2
+"2018","8133-Introduction to Web and Social Media Programming and Design","","F",58,,11,2,35,,4,6,,,,7,51,4
+"2018","8133-Introduction to Web and Social Media Programming and Design","","M",105,,19,3,73,,1,9,,,,22,87,12
+"2018","8134-Intermediate Web and Social Media Programming and Design (Concentrator)","","F",275,,,,271,4,,,,,,22,255,38
+"2018","8134-Intermediate Web and Social Media Programming and Design (Concentrator)","","M",507,,,,500,3,,2,2,,,63,481,93
+"2018","8135-Advanced Web and Social Media Programming and Design (Capstone)","","M",6,,,,2,,,4,,,,1,4,0
+"2018","8140-Introduction to Games and Simulation","","F",36,1,5,2,15,,,13,,,,8,22,4
+"2018","8140-Introduction to Games and Simulation","","M",231,7,15,8,137,1,4,57,2,,,66,137,31
+"2018","8141-Intermediate Games and Simulation (Concentrator)","","F",59,5,8,1,23,,,21,1,,,6,34,1
+"2018","8141-Intermediate Games and Simulation (Concentrator)","","M",343,22,31,10,174,2,3,97,1,3,,59,201,29
+"2018","8142-Advanced Games and Simulation (Capstone)","","F",32,3,,3,8,,3,13,2,,,2,12,0
+"2018","8142-Advanced Games and Simulation (Capstone)","","M",181,12,10,6,81,1,2,69,,,,26,78,8
+"2023","7261-Intermediate Game Design (Concentrator)","","F",46,2,,4,30,,,10,,,,4,41,9
+"2023","7261-Intermediate Game Design (Concentrator)","","M",289,16,11,8,179,,14,59,2,,,36,203,25
+"2023","7262-Advanced Game Design (Capstone)","","F",2,,,,,,,2,,,,0,2,0
+"2023","7262-Advanced Game Design (Capstone)","","M",10,,2,,4,,2,2,,,,0,6,0
+"2023","8100-Introduction to Information and Communication Technologies","","F",269,2,3,,254,2,,8,,,,13,232,19
+"2023","8100-Introduction to Information and Communication Technologies","","M",501,2,4,1,471,1,6,14,2,,,71,417,57
+"2023","8100-Introduction to Information and Communication Technologies","","X",2,,,,2,,,,,,,0,2,0
+"2023","8110-Introduction to Information Support Services","","M",15,,2,,12,,1,,,,,3,14,1
+"2023","8111-Intermediate Information Support Services (Concentrator)","","F",156,8,16,1,105,1,8,17,,,,14,123,11
+"2023","8111-Intermediate Information Support Services (Concentrator)","","M",472,27,50,4,281,2,20,85,3,,,68,357,40
+"2023","8112-Advanced Information Support Services (Capstone)","","F",12,,,,9,,1,2,,,,0,8,1
+"2023","8112-Advanced Information Support Services (Capstone)","","M",123,1,15,2,79,1,6,19,,,,21,92,5
+"2023","8112-Advanced Information Support Services (Capstone)","","X",1,,,,1,,,,,,,0,1,0
+"2023","8120-Introduction to Networking","","F",26,2,,,22,,,2,,,,1,24,1
+"2023","8120-Introduction to Networking","","M",111,2,1,1,99,1,1,6,,,,9,92,21
+"2023","8121-Intermediate Networking (Concentrator)","","F",157,19,12,12,78,,8,27,,1,,8,114,7
+"2023","8121-Intermediate Networking (Concentrator)","","M",553,40,29,25,284,13,29,127,3,3,,27,357,30
+"2023","8122-Advanced Networking (Capstone)","","F",21,1,,1,16,,,2,,1,,0,15,0
+"2023","8122-Advanced Networking (Capstone)","","M",111,2,3,4,80,,2,19,,1,,7,69,5
+"2023","8130-Introduction to Systems Programming","","F",171,29,7,14,67,,11,41,1,1,,7,76,2
+"2023","8130-Introduction to Systems Programming","","M",560,73,15,19,240,3,31,178,1,,,48,253,28
+"2023","8131-Intermediate Systems Programming (Concentrator)","","F",356,109,26,24,140,,9,46,2,,,13,233,12
+"2023","8131-Intermediate Systems Programming (Concentrator)","","M",826,153,57,55,362,8,48,139,1,3,,69,498,32
+"2023","8132-Advanced Systems Programming (Capstone)","","F",116,30,1,6,46,1,10,22,,,,6,64,3
+"2023","8132-Advanced Systems Programming (Capstone)","","M",387,63,19,25,151,,27,100,1,1,,22,188,9
+"2023","8134-Intermediate Web and Social Media Programming and Design (Concentrator)","","F",140,1,1,1,130,1,,5,1,,,16,124,23
+"2023","8134-Intermediate Web and Social Media Programming and Design (Concentrator)","","M",271,1,4,,254,1,,9,2,,,43,232,22
+"2023","8135-Advanced Web and Social Media Programming and Design (Capstone)","","F",25,,,,24,,,1,,,,1,20,2
+"2023","8135-Advanced Web and Social Media Programming and Design (Capstone)","","M",35,,,,34,,,1,,,,5,26,3
+"2023","8140-Introduction to Games and Simulation","","F",16,,1,,13,,,2,,,,1,15,2
+"2023","8140-Introduction to Games and Simulation","","M",52,1,2,1,37,,1,8,1,,1,16,40,8
+"2023","8141-Intermediate Games and Simulation (Concentrator)","","F",65,8,5,3,35,1,2,11,,,,10,49,7
+"2023","8141-Intermediate Games and Simulation (Concentrator)","","M",355,24,27,14,226,2,7,53,1,1,,67,279,42
+"2023","8142-Advanced Games and Simulation (Capstone)","","F",14,1,1,,5,,,7,,,,0,9,0
+"2023","8142-Advanced Games and Simulation (Capstone)","","M",77,7,3,6,38,,2,21,,,,14,53,1
+"2023","9060-Computer literacy","","F",1240,40,92,17,866,12,35,164,7,7,,121,949,130
+"2023","9060-Computer literacy","","M",2314,147,124,24,1575,13,69,349,3,10,,348,1708,271
+"2023","9061-Exploring Computer Science","","F",504,1,22,10,395,4,15,54,1,2,,34,430,59
+"2023","9061-Exploring Computer Science","","M",999,24,28,17,761,2,15,151,1,,,167,793,167
+"2023","9062-Computer Science","","F",234,5,4,3,199,,,23,,,,26,202,22
+"2023","9062-Computer Science","","M",894,12,14,5,774,12,9,63,4,1,,106,753,172
+"2023","9063-Computer programming","","F",58,7,4,2,37,,4,4,,,,3,33,4
+"2023","9063-Computer programming","","M",188,6,14,1,119,1,14,33,,,,15,116,20
+"2023","9063-Computer programming","","X",1,,,,,,,1,,,,0,0,0
+"2023","9064-Web Design","","F",330,12,1,1,264,8,4,36,4,,,37,278,36
+"2023","9064-Web Design","","M",466,8,7,,383,1,,66,1,,,78,396,73
+"2023","9066-Advanced Placement (AP) Computer Science Principles","","F",102,14,7,6,47,,8,19,1,,,1,72,0
+"2023","9066-Advanced Placement (AP) Computer Science Principles","","M",273,34,15,13,151,2,13,43,,2,,7,184,1
+"2023","9067-Advanced Placement (AP) Computer science A","","F",56,3,7,5,29,,3,8,,1,,1,31,2
+"2023","9067-Advanced Placement (AP) Computer science A","","M",128,8,5,12,72,,8,23,,,,4,85,3
+"2023","9069-International Baccalaureate (IB) Computer science","","F",10,4,,1,1,,,4,,,,1,4,0
+"2023","9069-International Baccalaureate (IB) Computer science","","M",24,12,1,,5,,1,5,,,,0,7,0
+"2023","9222-Applied Science Technology Engineering and Mathematics (STEM)","STEM-09: Applied STEM - Robotics","F",315,4,11,,275,2,3,17,3,,,39,301,82
+"2023","9222-Applied Science Technology Engineering and Mathematics (STEM)","STEM-09: Applied STEM - Robotics","M",839,11,13,9,730,4,15,53,4,,,123,777,161
+"2023","9381-Media Arts","MDAR-04: Media Arts - Interactive Game Design","F",39,4,6,2,14,3,,10,,,,4,20,0
+"2023","9381-Media Arts","MDAR-04: Media Arts - Interactive Game Design","M",210,16,19,8,76,2,19,70,,,,34,89,2
